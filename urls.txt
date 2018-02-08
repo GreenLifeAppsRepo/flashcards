@@ -1,0 +1,6 @@
+not found:
+https://anymemo.org/api/legacy_database/download/Klassiek%20Grieks--Reading%20Greek--Grieks/Nederlands%20woordenschat
+https://anymemo.org/api/legacy_database/download/Remembering_The_Kanji_1_Heisig_For_Reading.xml.db
+https://anymemo.org/api/legacy_database/download/Remembering_The_Kanji_1_Heisig_For_Writing.xml.db
+https://anymemo.org/api/legacy_database/download/Spanish_calendar.xml.db
+https://anymemo.org/api/legacy_database/download/TechEng.xml_3.db
